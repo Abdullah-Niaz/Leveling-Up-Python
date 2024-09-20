@@ -1,0 +1,8 @@
+2024-09-20 23:57:40 [DEBUG] adding 10 + 20 = 30
+2024-09-20 23:57:40 [DEBUG] subtraction 30 - 10 = 20
+2024-09-20 23:57:40 [DEBUG] multiplication 10 * 10 = 100
+2024-09-20 23:57:40 [DEBUG] division 40 / 3 = 13.333333333333334
+2024-09-21 00:00:44 [DEBUG] adding 10 + 20 = 30
+2024-09-21 00:00:44 [DEBUG] subtraction 30 - 10 = 20
+2024-09-21 00:00:44 [DEBUG] multiplication 10 * 10 = 100
+2024-09-21 00:00:44 [ERROR] division by zero 40 / 0
